@@ -43,7 +43,7 @@
             android:text="="
             android:textFontWeight="2000"
             android:textSize="70dp"
-            android:textColor="@android:color/holo_orange_light"/>
+            android:textColor="@android:color/holo_green_light"/>
 
     </LinearLayout>
 
@@ -61,7 +61,7 @@
             android:background="@android:color/background_dark"
             android:text="+"
             android:textFontWeight="2000"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:textSize="40dp" />
 
         <Button
@@ -73,7 +73,7 @@
             android:textSize="40dp"
             android:layout_weight="10"
             android:background="@android:color/background_dark"
-            android:textColor="@android:color/holo_orange_light"/>
+            android:textColor="@android:color/holo_green_light"/>
             <Button
                 android:id="@+id/multiplyBtn"
                 android:layout_width="80dp"
@@ -82,7 +82,7 @@
                 android:textFontWeight="2000"
                 android:textSize="40dp"
                 android:layout_weight="10"
-                android:textColor="@android:color/holo_orange_light"
+                android:textColor="@android:color/holo_green_light"
                 android:background="@android:color/background_dark"/>
         <Button
             android:id="@+id/divideBtn"
@@ -93,7 +93,7 @@
             android:textSize="40dp"
             android:layout_weight="10"
             android:background="@android:color/background_dark"
-            android:textColor="@android:color/holo_orange_light"/>
+            android:textColor="@android:color/holo_green_light"/>
 
         <Button
             android:id="@+id/buttonroot"
@@ -103,7 +103,7 @@
             android:text="√"
             android:textSize="40dp"
             android:background="@android:color/background_dark"
-            android:textColor="@android:color/holo_orange_light"/>
+            android:textColor="@android:color/holo_green_light"/>
 
 
 
@@ -149,7 +149,7 @@
             android:layout_height="80dp"
             android:layout_weight="10"
             android:layout_marginTop="20dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textColor="@android:color/black"
             android:text="C"
             android:textSize="40dp">
@@ -161,7 +161,7 @@
             android:layout_marginTop="20dp"
             android:layout_weight="10"
             android:background="@android:color/background_dark"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:text="%"
             android:textSize="40dp"/>
 
@@ -206,7 +206,7 @@
             android:layout_marginTop="20dp"
             android:layout_weight="10"
             android:text="."
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:textSize="40dp">
         </Button>
 
@@ -218,7 +218,7 @@
             android:layout_marginTop="20dp"
             android:text="x^2"
             android:background="@android:color/background_dark"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:textSize="38dp" />
 
 
@@ -269,7 +269,7 @@
             android:layout_weight="10"
             android:background="@android:color/black"
             android:text="0"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:textSize="40dp"></Button>
 
         <Button
@@ -280,7 +280,7 @@
             android:layout_weight="10"
             android:background="@android:color/background_dark"
             android:text="1/x"
-            android:textColor="@android:color/holo_orange_light"
+            android:textColor="@android:color/holo_green_light"
             android:textSize="40dp" />
     </LinearLayout>
 </LinearLayout>
