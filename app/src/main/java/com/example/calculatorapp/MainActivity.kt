@@ -95,10 +95,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-//        btn1.setOnClickListener {
-//            Log.i("TEXT", "Display Text ${et1.text}")
-//
-//        }
+       btn1.setOnClickListener {
+           Log.i("TEXT", "Display Text ${et1.text}")
+       }
         btn1.setOnClickListener(this)
         plusBtn.setOnClickListener(this)
         subtractBtn.setOnClickListener(this)
